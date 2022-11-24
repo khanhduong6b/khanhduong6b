@@ -1,6 +1,6 @@
 ## My full name is Ho Khanh Duong. I am 3nd year student in STU
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: flex;">
   <a href="https://github.com/khanhduong6b/khanhduong6b">
    <img width:"50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=khanhduong6b&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width:"50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhduong6b&layout=compact&langs_count=7&theme=dracula"/>
