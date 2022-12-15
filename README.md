@@ -1,4 +1,4 @@
-## My full name is Ho Khanh Duong. I am 3nd year student in STU
+## My full name is Ho Khanh Duong. I am 3rd year student in STU
 
 <div style="display: flex; position:relative">
    <a href="https://github.com/khanhduong6b">
