@@ -1,4 +1,4 @@
-### Hey! I'm Duong. Nice to see you . I am 4th-year student at STU
+### Hey! I'm Kelvin. Nice to see you . I am 4th-year student at STU
 
 ## I'm a passionate self-taught Full Stack Web Developer 🚀 from Viet Nam
 
