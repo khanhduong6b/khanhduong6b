@@ -1,4 +1,6 @@
-## My full name is Ho Khanh Duong. I am 4th-year student at STU
+### Hey! I'm Duong. Nice to see you . I am 4th-year student at STU
+
+## I'm a passionate self-taught Full Stack Web Developer 🚀 from Viet Nam
 
 <div style="display: flex; position:relative">
    <a href="https://github.com/khanhduong6b">
