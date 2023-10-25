@@ -1,6 +1,6 @@
 ### Hey! I'm Kelvin. Nice to see you . I am 4th-year student at STU
 
-## I'm a passionate self-taught Full Stack Web Developer 🚀 from Viet Nam
+## I'm a passionate self-taught Full Stack Developer 🚀 from Viet Nam
 
 <div style="display: flex; position:relative">
    <a href="https://github.com/khanhduong6b">
