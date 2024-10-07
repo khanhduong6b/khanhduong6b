@@ -1,6 +1,10 @@
-### Hey! I'm Kelvin. Nice to see you . I am 4th-year student at STU
+### Hey! I'm Kelvin. Nice to see you.
 
-## I'm a passionate self-taught Full Stack Developer 🚀 from Viet Nam
+- 🔭 I’m currently working at Thanh Cong Securities where I learn about how I can build, deploy and manage big system.
+- 🌱 I’m passionate about serverless in AWS and Web3.
+- 🏆 I’m achieved an Overall Grand Prize at BUIDL Vietnam Hackathon.
+- 📝 I'm striving to increase my GitHub stats rating by contributing to blockchain open source.
+- ⚡ Fun fact: I read books, play the guitar, and play badminton!
 
 <div style="display: flex; position:relative">
    <a href="https://github.com/khanhduong6b">
@@ -19,10 +23,6 @@
   <img align="center" alt="Rafa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
   <img align="center" alt="Rafa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="./khanhduong.jfif">
-  
 </div>
   
   ##
